@@ -1,0 +1,21 @@
+[project]
+name = "standard-library-wsgi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+
+# BELOW: is only copied over from the original requirements.txt for reference
+# WSGI Server Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Optional: For production deployment, you might want:
+# gunicorn>=20.1.0
+# waitress>=2.1.0
+
+# For development and testing:
+# pytest>=7.0.0
+# coverage>=6.0.0
